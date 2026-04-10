@@ -1,5 +1,5 @@
 //num用于存储用户输入的数字
-num=int(input("输入一个10以内的整数:"))
+num=int(input("输入一个220以内的整数:"))
 if num==int(input("请输入第一次猜的数字:")):
     print("恭喜你猜对了")
 elif num==int(input("不对，再猜一次:")):
